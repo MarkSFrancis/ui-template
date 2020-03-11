@@ -1,7 +1,7 @@
 {
   "name": "base-template",
   "scripts": {
-    "start": "http-server -p 24261 -c-1"
+    "start": "http-server -p 24261 -c-1 -s"
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
