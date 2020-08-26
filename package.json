@@ -9,7 +9,7 @@
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
-    "css-loader": "^4.2.1",
+    "css-loader": "^4.2.2",
     "html-webpack-plugin": "^4.3.0",
     "sass": "^1.26.10",
     "sass-loader": "^10.0.1",
