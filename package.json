@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "css-loader": "^4.2.2",
-    "html-webpack-plugin": "^4.3.0",
+    "html-webpack-plugin": "^4.4.1",
     "sass": "^1.26.10",
     "sass-loader": "^10.0.1",
     "style-loader": "^1.2.1",
