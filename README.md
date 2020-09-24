@@ -1,7 +1,17 @@
 # UI Template
 
-This is an extremely barebones HTML, JS and SCSS project, with bootstrap and webpack (via npm), meant for throwing together UI prototypes in CSS/ HTML/ JS.
+**This project is not a production ready app template**
 
-The template HTML file sets up the minimal for HTML 5 (viewport scaling, language, etc.). It also comes with Bootstrap (with jQuery and Popper), and a default empty SCSS and JS file.
+This is an barebones HTML, JS and SCSS project, with bootstrap and webpack (via npm), meant for throwing together UI prototypes.
 
-The template package.json includes a script that starts up webpack, with hot-reloading. The .vscode config starts up Google Chrome on the relevant port
+## Features
+
+1. The template HTML file sets up the minimal for HTML 5 (viewport scaling, language, etc.)
+1. Webpack
+1. SCSS
+1. Bootstrap
+1. jQuery
+1. Popper
+1. Hot reloading
+1. VS Code config
+1. Auto-updated dependencies (via dependabot)
