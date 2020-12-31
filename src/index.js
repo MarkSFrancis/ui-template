@@ -1,5 +1,5 @@
-import 'bootstrap';
-import $ from 'jquery';
-import './css/index.scss';
+import "bootstrap";
+import $ from "jquery";
+import "./css/index.scss";
 
 window.$ = window.jQuery = $;
