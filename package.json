@@ -1,22 +1,14 @@
 {
-  "name": "base-template",
+  "name": "ui-template",
   "scripts": {
-    "start": "webpack-dev-server",
-    "build": "webpack"
+    "start": "snowpack dev",
+    "build": "snowpack build"
   },
   "dependencies": {
     "bootstrap": "*",
     "jquery": "*",
-    "popper.js": "^1.16.1"
-  },
-  "devDependencies": {
-    "css-loader": "*",
-    "html-webpack-plugin": "*",
-    "sass": "*",
-    "sass-loader": "*",
-    "style-loader": "*",
-    "webpack": "*",
-    "webpack-cli": "*",
-    "webpack-dev-server": "*"
+    "popper.js": "^1.16.1",
+    "snowpack": "*",
+    "@snowpack/plugin-sass": "*"
   }
 }
