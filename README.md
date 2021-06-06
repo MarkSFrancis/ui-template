@@ -1,3 +1,7 @@
+# UI Template - Archived
+
+This project has been archived in favor of [ts-react-template](https://github.com/marksfrancis/ts-react-template)
+
 # UI Template
 
 **This project is not a production ready app template**
